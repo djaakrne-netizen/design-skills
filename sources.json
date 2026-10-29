@@ -1,0 +1,110 @@
+{
+  "packaged_on": "2026-10-29",
+  "skills": [
+    {
+      "skill": "design-reference",
+      "local_snapshot_sha256": "ec1f6e76bd3159f950ceb7415800c85568c6548e10795ce0aca8edd933abd0ef",
+      "packaged_skill_sha256": "95095b68483b6b3f0d1e7f4bfab3a093b5cc8868b3067ebc9756534b39a8155c",
+      "body_preserved": false
+    },
+    {
+      "skill": "design-taste-frontend",
+      "local_snapshot_sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+      "packaged_skill_sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+      "body_preserved": true
+    },
+    {
+      "skill": "emil-design-eng",
+      "local_snapshot_sha256": "e71de849347050c2c573c1cf24d742d5a13459557ecffa6e562f08006f46b5b7",
+      "packaged_skill_sha256": "e71de849347050c2c573c1cf24d742d5a13459557ecffa6e562f08006f46b5b7",
+      "body_preserved": true
+    }
+  ],
+  "brand_references": {
+    "upstream": "https://github.com/VoltAgent/awesome-design-md",
+    "local_checkout_revision": "76bde6c5ab434e389f469f910fbc9d3d6f15286e",
+    "count": 54
+  },
+  "upstream_comparison": [
+    {
+      "repository": "Leonxlnx/taste-skill",
+      "path": "skills/taste-skill/SKILL.md",
+      "blob_sha": "d8444f13b76be100b3b088dfdae738e85288d6b6"
+    },
+    {
+      "repository": "emilkowalski/skills",
+      "path": "skills/emil-design-eng/SKILL.md",
+      "blob_sha": "62ce902af8dd32c590ea7203e9ab2edb1d6ef81a"
+    }
+  ],
+  "bundled_file_hashes": {
+    "skills/design-reference/SKILL.md": "95095b68483b6b3f0d1e7f4bfab3a093b5cc8868b3067ebc9756534b39a8155c",
+    "skills/design-reference/agents/openai.yaml": "6f0e2edc815a7d9a3f2c469187b50d41234fda9dee9e2a3e8b520466aba562c0",
+    "skills/design-reference/references/ai-design-tools.md": "ef155969b448ba8b9d604f2940ed91f48191ed387c2a03264cc81f2ed18c58e4",
+    "skills/design-reference/references/brands/LICENSE": "6d4bdc9a9cf30e7beb593475fdcdbf29f981ea6bd7923f202866145409f87b44",
+    "skills/design-reference/references/brands/airbnb/DESIGN.md": "183342946944d6d8e8dced2e6115e4296464388fb75c6ad8a1d84a7f9a18cde1",
+    "skills/design-reference/references/brands/airtable/DESIGN.md": "252db4af67ecb37952549fb879c7da85ececa7fb14e114aa8045884e8a8490a2",
+    "skills/design-reference/references/brands/apple/DESIGN.md": "7bf672ddc0484e1e8ed4c2eaaa031327fb9f72b0d7656833845a131563e9ab34",
+    "skills/design-reference/references/brands/bmw/DESIGN.md": "b3a6387ba009ceb658feed2e1d9a6ee46916084006577355919f119df1e5bbad",
+    "skills/design-reference/references/brands/cal/DESIGN.md": "6d57b0aa7e9354e514ddf89f4b11c4bcfdcf8d8025ebf5828e16c9296a34faae",
+    "skills/design-reference/references/brands/claude/DESIGN.md": "b94955413ca4b5d9e978b97d85c669d9f00e2aa1ef372b1b7f63a7fcd58a9c27",
+    "skills/design-reference/references/brands/clay/DESIGN.md": "0df87a376cdbcece751522d65edc53b217eb94507fe4b59795c8bb3a8a443ac4",
+    "skills/design-reference/references/brands/clickhouse/DESIGN.md": "9255cfd7d2b9fe04e11a97203cfd46a40218b3c002ee58ffe1e6a0f2ac276d5e",
+    "skills/design-reference/references/brands/cohere/DESIGN.md": "82d48b6d78187d9d1acb297f4a4a5922f37930aefc01d16b9c572ba8bafdd7b0",
+    "skills/design-reference/references/brands/coinbase/DESIGN.md": "03fffe50ff3c30c089780feacadbe19a5995c72338b8c4a3fb3bc852c0df9574",
+    "skills/design-reference/references/brands/composio/DESIGN.md": "5be668ebeefb024da78be092abd3d9d217e69dc94799e186782d90fb3eb5a498",
+    "skills/design-reference/references/brands/cursor/DESIGN.md": "02819b24625feb58ec931fe6faec0632f16e9b7b64ef3e9134b59d709c9414b8",
+    "skills/design-reference/references/brands/elevenlabs/DESIGN.md": "cdf6c4d78da22b2a2075ceb8d9957e3cb2ce7b227e8e691c2e972ca5867d09a6",
+    "skills/design-reference/references/brands/expo/DESIGN.md": "444f4fba99bf131b8d59819590c59268076d7fd9076d4f2dd16ba63e478258d1",
+    "skills/design-reference/references/brands/figma/DESIGN.md": "d91d11f0290bc0d1f5f55bd408aa3959291079bd4c105dfa130df8e931ebca48",
+    "skills/design-reference/references/brands/framer/DESIGN.md": "5469be7f533070d3e76a103658afa81603e303aeaff12ce3c28b8f1d65c8dc53",
+    "skills/design-reference/references/brands/hashicorp/DESIGN.md": "18e0172805ad1ab720ca90a78d9c037aeab0946a454fedf8ccee41a5ac01e3c5",
+    "skills/design-reference/references/brands/ibm/DESIGN.md": "be16ae06d52faa3574a3118dead49dc44cdba2ceb652b5c4e99bb646396a72e7",
+    "skills/design-reference/references/brands/intercom/DESIGN.md": "27181a3588a830e9a545e3485d48c713ec83c9181c819fed798021955c4e084a",
+    "skills/design-reference/references/brands/kraken/DESIGN.md": "13eb113933cbd8a4b466010c5686369fa4080df016bb41775bf6ed5927d008b7",
+    "skills/design-reference/references/brands/linear.app/DESIGN.md": "5093d709dedcf7a176c43c2efe18d8fd9cf4a0c711821392f29390e2130ab49e",
+    "skills/design-reference/references/brands/lovable/DESIGN.md": "19e33434a36bce04bb49280aa9ddb049408f2c04ff02ba60a1464b319ccec096",
+    "skills/design-reference/references/brands/minimax/DESIGN.md": "45b4e5e4eea833ecf20d16513310308950cefc24a31324391923edae9ac8f3ea",
+    "skills/design-reference/references/brands/mintlify/DESIGN.md": "9f96687f7d34cf7acd6e0382457e2b8941f375bfc10075f771ed2237410d1f8d",
+    "skills/design-reference/references/brands/miro/DESIGN.md": "976bd62edff35991b0a7a1862936e528d14be59ea7a76c1bf904ec03e0dc079f",
+    "skills/design-reference/references/brands/mistral.ai/DESIGN.md": "a0074f1e8855f53748cdb3240869e7d57b2dc46c8ccf81545bca24f90181d6a6",
+    "skills/design-reference/references/brands/mongodb/DESIGN.md": "f06e078fbc7e0ba8a51b7dc082984a83e143795594a8877ac59d896e1a638c94",
+    "skills/design-reference/references/brands/notion/DESIGN.md": "f798e0dbea2f5c1e9dd04f54dcd74f6fabdead3048ed15ba62ee1ad7ab5ec61d",
+    "skills/design-reference/references/brands/nvidia/DESIGN.md": "d7261c2e1b479544181d22b141c3ffb7c5271c3b75a67c16da2ee7727284a5bd",
+    "skills/design-reference/references/brands/ollama/DESIGN.md": "cd4a4d17c7b63b7b0bde1b0c909c60bc5b8af8c520a08d1becad7f6ccb5e902a",
+    "skills/design-reference/references/brands/opencode.ai/DESIGN.md": "37b866a467f3fb88dd3b99740f97f5983750f476337877868224721c8048aa4a",
+    "skills/design-reference/references/brands/pinterest/DESIGN.md": "241467d6459d754ef8a5f33927a2affc181a2bf0827b9d718b01b45fa53a6761",
+    "skills/design-reference/references/brands/posthog/DESIGN.md": "83a0d904be977de950efecb3809f573c50f20b2cd7e4f6744c8be84ef0ab3820",
+    "skills/design-reference/references/brands/raycast/DESIGN.md": "459df61ff32392719f9e0a98ed2d3fe6f096e50ea67d5175a0f8d3c6ad813c99",
+    "skills/design-reference/references/brands/replicate/DESIGN.md": "8aa90458a05e87ca6c7e9d5dcebd36e9364a6884f7a206f9d6377726d69e3013",
+    "skills/design-reference/references/brands/resend/DESIGN.md": "e1e40c28144672bf4c7718317589030638ac1aca192ce34d3c78c887c1da7973",
+    "skills/design-reference/references/brands/revolut/DESIGN.md": "7db0ab0b744263ea90451aee6a5d97b9de4792a2d321b0de54c7356ebe258ed0",
+    "skills/design-reference/references/brands/runwayml/DESIGN.md": "0432920bf488dc13f652004e41f9781ebd64bc16c2c1f4e4c34ddb59eb1472f0",
+    "skills/design-reference/references/brands/sanity/DESIGN.md": "c81c08fbc960aa49b52449677884aaf9f6379fa851a42d9e9d801e7df82f349c",
+    "skills/design-reference/references/brands/sentry/DESIGN.md": "26826802a824f04b70aa650c53d1b1349d6eaf7b6a5684f87f61195cbe9624a1",
+    "skills/design-reference/references/brands/spacex/DESIGN.md": "526b341d16c36700a09a532ba6fc23f5605f88b2c09610b7b41978df2235744e",
+    "skills/design-reference/references/brands/spotify/DESIGN.md": "8989c4e4b6ac2ef5e588207e1a04af5247a3335655b3edd4e60c8cbbd4955ea9",
+    "skills/design-reference/references/brands/stripe/DESIGN.md": "8bc753c98e14d72c0804b64fb99a2b41fcb49bce2d18e339cbd6f24e4b453464",
+    "skills/design-reference/references/brands/supabase/DESIGN.md": "fd8121fb705944ba5b7c25fff224462e13427ebf62a5777a126f30e1c69ed055",
+    "skills/design-reference/references/brands/superhuman/DESIGN.md": "f9c5ced75632967f5333a233caad546c78994726b2566b525d1dcc3f705056d1",
+    "skills/design-reference/references/brands/together.ai/DESIGN.md": "46b4208f8ed49a90516c78c1ddabc600dc171aa3f49d2fd12c2852e59631cd2e",
+    "skills/design-reference/references/brands/uber/DESIGN.md": "2082cea9e98d9160c5b81c11041e32bfd6b7af43c6f71983e1e2cac0ce3f0f5c",
+    "skills/design-reference/references/brands/vercel/DESIGN.md": "156faab8b43b118804501e0b13f726cc3ee1eaebc75b0260e64a0668977eec6b",
+    "skills/design-reference/references/brands/voltagent/DESIGN.md": "631423db0aefdd4f452b70430e3375409494ef1687db222ee1e22b10083b5560",
+    "skills/design-reference/references/brands/warp/DESIGN.md": "5f14198027c8fa5402e4f9bbd9c9b4e1af8c074e96351753e7f99e3215913cda",
+    "skills/design-reference/references/brands/webflow/DESIGN.md": "64e97bff85a1b779446f8f88752825592528dab4e2b691ff75638f24e7d1e4f5",
+    "skills/design-reference/references/brands/wise/DESIGN.md": "b75a197571dbf7898d6bbb593391dc4a05d178da3d5764280f6e092dfb5adf3a",
+    "skills/design-reference/references/brands/x.ai/DESIGN.md": "6e6bf0b2a2b448b3da1cc0578ecc082912e29004a1b13b117ec62faa503574b2",
+    "skills/design-reference/references/brands/zapier/DESIGN.md": "12835be11f8b9ce2c1e1c8704b939f376486cb4c4d4c35a271f1a65f2789c23a",
+    "skills/design-reference/references/catalog.md": "dd34fcdacd3ead34566dd97602b33ce1cd01b89f25962021eb484deb82d5a314",
+    "skills/design-reference/references/code-components.md": "f2745378cf3ea087f371647f1e1da60a6afe443c2ab146bd45a3594f87c6d881",
+    "skills/design-reference/references/figma-kits.md": "c61cec9301dcf477ae15817d58de3232418d57757ba00bb10771523cc9b9a552",
+    "skills/design-reference/references/global-web.md": "1b15d73a7c598e8fa13444c56e60f36ab370976a069097bfba07fee9644e7846",
+    "skills/design-reference/references/korea-ui.md": "a1ae1f7399a102abe442f6e104f773f2a271940ea6f6ff6ab8f429077e4b0cc6",
+    "skills/design-reference/scripts/list_design_refs.py": "e98a48907764dc25f09aa2fa7235a5c9ae65b4cce6ef1b1a10cb592bcbaaf6ee",
+    "skills/design-taste-frontend/LICENSE": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df",
+    "skills/design-taste-frontend/SKILL.md": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+    "skills/emil-design-eng/LICENSE": "4ff5bdb7887ec1435c9cab0e8d1a7caee704d894d65c2a008ccc68b1cc2f260b",
+    "skills/emil-design-eng/SKILL.md": "e71de849347050c2c573c1cf24d742d5a13459557ecffa6e562f08006f46b5b7"
+  }
+}

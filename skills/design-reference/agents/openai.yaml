@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Reference"
+  short_description: "Use Korea, global, Figma, and code UI references"
+  default_prompt: "Use $design-reference to choose fitting brand, Korea UI, Global Web, saved Figma kit, or live code-component references, then translate them into this project."
